@@ -1,4 +1,4 @@
-<a rel="me" href="https://fosstodon.org/@crispinb">Mastodon</a>
+
 
 Sometime polyglot journeymammal programmer.
 
